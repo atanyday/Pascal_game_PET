@@ -1,2 +1,4 @@
 # Pascal_game_PET
-mini game like Tamagochi created with Turbo Pascal
+Mini game, kind of "Tamagochi"" created with Turbo Pascal.
+<br>
+![Picture](preview.jpg)
